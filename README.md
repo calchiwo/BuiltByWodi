@@ -22,6 +22,8 @@ My focus is on combining **technology + creativity** to craft simple, usable, an
 - 📸 [**WodiMemories**](https://wodimemories.netlify.app)  
   A digital photo gallery showcasing life’s milestones, moments, and memories through a creative, digital-first lens.
 
+- 🎮 [**WodiGames**](https://wodigames.netlify.app)
+  A cross-platform gaming space built by me, for everyone
 ---
 
 ## 🛠️ What Drives BuiltByWodi®
