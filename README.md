@@ -7,17 +7,17 @@ My focus is on combining **technology + creativity** to craft simple, usable, an
 
 ## 🌟 Featured Projects
 
-- 🔐 [**WodiWebify**](https://github.com/Calchiwo/WodiWebify)  
+- 🔐 [**WodiNotes**](https://github.com/Calchiwo/WodiWebify) (formerly WodiWebify) 
   An encrypted note-taking app built for privacy and productivity. Offline-first and lightweight, designed for seamless everyday use.
 
-- 📟 [**WodiC v3**](https://github.com/Calchiwo/WodiC)  
+- 📟 [**WodiC**](https://github.com/Calchiwo/WodiC)  
   A smart voice calculator powered by AI, blending simple calculations with advanced scientific tools.
 
 - 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app)  
   My personal storytelling platform documenting my **journey, reflections, projects, and lessons** — highlighting the power of building in public.
 
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  
-  A lightweight waitlist platform for collecting early interests and sign-ups to support project launches and community engagement.
+  A waitlist platform for collecting early interests and sign-ups for my upcoming project and launches
 
 - 📸 [**WodiMemories**](https://wodimemories.netlify.app)  
   A digital photo gallery showcasing life’s milestones, moments, and memories through a creative, digital-first lens.
@@ -42,9 +42,10 @@ Every project here reflects my journey as a young builder blending **innovation,
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/calchiwo)  
+- 💼 [LinkedIn](https://linkedin.com/in/Calchiwo)
+- 🐦 [X (Twitter)](https://x.com/BuiltByWodi)  
 - 🐦 [X (Twitter)](https://x.com/calchiwo)  
-- 📂 [GitHub](https://github.com/Calchiwo)
+- 📂 [GitHub](https://github.com/Calchiwo/BuiltByWodi)
 
 ---
 
