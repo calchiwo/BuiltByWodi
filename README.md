@@ -43,7 +43,7 @@ Every project here reflects my journey as a young builder blending **innovation,
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/Calchiwo)
-- 🐦 [X (Twitter)](https://x.com/BuiltByWodi)  
+- 🐦 [Official Twitter of BuiltByWodi® Projects)](https://x.com/BuiltByWodi)  
 - 🐦 [X (Twitter)](https://x.com/calchiwo)  
 - 📂 [GitHub](https://github.com/Calchiwo/BuiltByWodi)
 
