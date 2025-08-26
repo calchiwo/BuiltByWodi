@@ -8,7 +8,8 @@ My focus is on combining **technology + creativity** to craft simple, usable, an
 ## 🌟 Featured Projects
 
 - 🔐 [**WodiNotes**](https://github.com/Calchiwo/WodiWebify) (formerly WodiWebify) 
-  An encrypted note-taking app built for privacy and productivity. Offline-first and lightweight, designed for seamless everyday use.
+  
+An encrypted note-taking app built for privacy and productivity. Offline-first and lightweight, designed for seamless everyday use.
 
 - 📟 [**WodiC**](https://github.com/Calchiwo/WodiC)  
   A smart voice calculator powered by AI, blending simple calculations with advanced scientific tools.
