@@ -1,3 +1,4 @@
+HEAD
 # 🚀 BuiltByWodi® Projects
 
 Welcome to **BuiltByWodi® Projects** — a collection of mobile-first platforms, creative tools, and digital storytelling spaces that I design, build, and share.  
@@ -50,3 +51,6 @@ Every project here reflects my journey as a young builder blending **innovation,
 ---
 
 ✨ *Built with passion, curiosity, and creativity — by Caleb Wodi (Calchiwo).*
+=======
+# BuiltByWodi
+cdfd383 (Initial commit with README)
