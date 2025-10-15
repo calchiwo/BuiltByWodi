@@ -7,13 +7,11 @@ Welcome to **BuiltByWodi®** 💙💙💙 a collection of mobile-first platforms
 
 - 🔐 [**WodiNotes**](https://wodinotes.vercel.app) (formerly WodiWebify) is an encrypted note-taking app built for privacy and productivity.
 
-- 📟 [**WodiC**](https://wodic.vercel.app)  
-  A smart voice calculator powered by AI with advanced scientific tools.
+- 📟 [**WodiC**](https://wodic.vercel.app); A smart voice calculator powered by AI with advanced scientific tools.
 
 - 🌍 [**WodiWideWeb**](https://wodiwideweb.vercel.app); My personal storytelling platform documenting my **journey, reflections, projects, and lessons**, also highlighting the power of building in public.
 
-- 🧪 [**WodiWaitlist**](https://wodiwaitlist.vercel.app)  
-  A waitlist platform for collecting early interests and sign-ups for my upcoming project and launches
+- 🧪 [**WodiWaitlist**](https://wodiwaitlist.vercel.app); A waitlist platform for collecting early interests and sign-ups for my upcoming project and launches
 
 - 📸 [**WodiMemories**](https://wodimemories.vercel.app); My photo gallery showcasing life’s milestones, moments, and memories through a creative, digital-first lens.
 
