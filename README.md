@@ -1,30 +1,23 @@
-HEAD
-# 🚀 BuiltByWodi® Projects
+# BuiltByWodi®
 
-Welcome to **BuiltByWodi® Projects** — a collection of mobile-first platforms, creative tools, and digital storytelling spaces that I design, build, and share.  
-My focus is on combining **technology + creativity** to craft simple, usable, and secure solutions that empower people and capture stories.
-
+Welcome to **BuiltByWodi®** 💙💙💙 a collection of mobile-first platforms, creative tools, and digital storytelling spaces that I design, build, and share.
 ---
 
 ## 🌟 Featured Projects
 
-- 🔐 [**WodiNotes**](https://github.com/Calchiwo/WodiWebify) (formerly WodiWebify) 
-  An encrypted note-taking app built for privacy and productivity. Offline-first and lightweight, designed for seamless everyday use.
+- 🔐 [**WodiNotes**](https://wodinotes.vercel.app) (formerly WodiWebify) is an encrypted note-taking app built for privacy and productivity.
 
-- 📟 [**WodiC**](https://github.com/Calchiwo/WodiC)  
-  A smart voice calculator powered by AI, blending simple calculations with advanced scientific tools.
+- 📟 [**WodiC**](https://wodic.vercel.app)  
+  A smart voice calculator powered by AI with advanced scientific tools.
 
-- 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app)  
-  My personal storytelling platform documenting my **journey, reflections, projects, and lessons** — highlighting the power of building in public.
+- 🌍 [**WodiWideWeb**](https://wodiwideweb.vercel.app); My personal storytelling platform documenting my **journey, reflections, projects, and lessons**, also highlighting the power of building in public.
 
-- 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  
+- 🧪 [**WodiWaitlist**](https://wodiwaitlist.vercel.app)  
   A waitlist platform for collecting early interests and sign-ups for my upcoming project and launches
 
-- 📸 [**WodiMemories**](https://wodimemories.netlify.app)  
-  A digital photo gallery showcasing life’s milestones, moments, and memories through a creative, digital-first lens.
+- 📸 [**WodiMemories**](https://wodimemories.vercel.app); My photo gallery showcasing life’s milestones, moments, and memories through a creative, digital-first lens.
 
-- 🎮 [**WodiGames**](https://wodigames.netlify.app)
-  A cross-platform gaming space built by me, for everyone
+- 🎮 [**WodiGames**](https://wodigames.vercel.app); A cross-platform gaming space built by me, for everyone to enjoy.
 ---
 
 ## 🛠️ What Drives BuiltByWodi®
@@ -32,25 +25,3 @@ My focus is on combining **technology + creativity** to craft simple, usable, an
 - **Simplicity & usability** → Easy to use, clean interfaces.  
 - **Security & trust** → Privacy and data protection baked in.  
 - **Authentic storytelling** → Projects that capture real journeys and lessons.
-
----
-
-## 📌 About BuiltByWodi®
-BuiltByWodi® is my creative and technical playground — where I turn ideas into reality, experiment with productivity tools, AI, and digital storytelling, and share projects openly with the world.  
-
-Every project here reflects my journey as a young builder blending **innovation, design, and storytelling**.
-
----
-
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/Calchiwo)
-- 🐦 [BuiltByWodi® Projects)](https://x.com/BuiltByWodi)  
-- 🐦 [X (Twitter)](https://x.com/calchiwo)  
-- 📂 [GitHub](https://github.com/Calchiwo/BuiltByWodi)
-
----
-
-✨ *Built with passion, curiosity, and creativity — by Caleb Wodi (Calchiwo).*
-=======
-# BuiltByWodi
-cdfd383 (Initial commit with README)
