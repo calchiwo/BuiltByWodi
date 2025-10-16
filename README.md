@@ -1,6 +1,6 @@
 # BuiltByWodi®
 
-Welcome to **BuiltByWodi®** 💙💙💙 a collection of mobile-first platforms, creative tools, and digital storytelling spaces that I design, build, and share.
+Welcome to **BuiltByWodi®** 💙💙💙 is a collection of apps, games, AI and and software projects built by me.
 ---
 
 ## 🌟 Featured Projects
@@ -15,7 +15,7 @@ Welcome to **BuiltByWodi®** 💙💙💙 a collection of mobile-first platforms
 
 - 📸 [**WodiMemories**](https://wodimemories.vercel.app); My photo gallery showcasing life’s milestones, moments, and memories through a creative, digital-first lens.
 
-- 🎮 [**WodiGames**](https://wodigames.vercel.app); A cross-platform gaming space built by me, for everyone to enjoy.
+- 🎮 [**WodiGames**](https://wodigames.vercel.app); A cross-platform gaming hub where I showcase every game I’ve built on my phone, for everyone to enjoy.
 ---
 
 ## 🛠️ What Drives BuiltByWodi®
